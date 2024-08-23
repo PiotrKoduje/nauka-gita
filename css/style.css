@@ -17,6 +17,10 @@ body{
     font-size: 24px;
 }
 
+.wrapper h3{
+    font-size: 30px;
+}
+
 p{
     font-size: 20px;
     word-spacing: 3px;
